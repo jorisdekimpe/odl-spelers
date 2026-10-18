@@ -22,18 +22,20 @@
   {
    "id": "mve6twy47fgqh",
    "c": 1792349862412,
-   "t": 1792349862412,
+   "t": 1792349881638,
    "naam": "Repeating Shot Shortbow",
-   "aantal": 1
+   "aantal": 1,
+   "att": true
   },
   {
    "id": "mve6u4lfsmljm",
    "c": 1792349872323,
-   "t": 1792349872323,
+   "t": 1792349883248,
    "naam": "Studded Leather",
-   "aantal": 1
+   "aantal": 1,
+   "att": true
   }
  ],
  "sheets": [],
- "updated": 1792349872323
+ "updated": 1792349883248
 }
