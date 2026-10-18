@@ -1,7 +1,30 @@
 {
  "held": "kyrenos",
- "f": {},
+ "f": {
+  "hp": {
+   "v": 23,
+   "t": 1792314279214
+  },
+  "hpmax": {
+   "v": 23,
+   "t": 1792314287283
+  },
+  "ac": {
+   "v": 18,
+   "t": 1792314297508
+  }
+ },
  "items": [],
- "sheets": [],
- "updated": 0
+ "sheets": [
+  {
+   "id": "mvdlkln0qt44s",
+   "c": 1792314155916,
+   "t": 1792314403731,
+   "name": "Kyrenos Dragonbane Character Sheet",
+   "type": "pdf",
+   "path": "sheets/kyrenos/mvdlkln0qt44s.pdf",
+   "up": true
+  }
+ ],
+ "updated": 1792314297508
 }
