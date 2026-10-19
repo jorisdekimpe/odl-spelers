@@ -1,0 +1,30 @@
+{
+ "held": "apollodorus",
+ "f": {
+  "hp": {
+   "v": 16,
+   "t": 1792421112532
+  },
+  "hpmax": {
+   "v": 16,
+   "t": 1792421121378
+  },
+  "ac": {
+   "v": 13,
+   "t": 1792421128163
+  }
+ },
+ "items": [],
+ "sheets": [
+  {
+   "id": "mvfdf7lfdn6hl",
+   "c": 1792421399859,
+   "t": 1792421512355,
+   "name": "apollodorus lv2",
+   "type": "pdf",
+   "path": "sheets/apollodorus/mvfdf7lfdn6hl.pdf",
+   "up": true
+  }
+ ],
+ "updated": 1792421400008
+}
