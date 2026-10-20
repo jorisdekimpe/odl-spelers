@@ -26,9 +26,10 @@
   {
    "id": "mvdo7rqngjsrl",
    "c": 1792318596143,
-   "t": 1792318596143,
+   "t": 1792526090943,
    "naam": "Verzilverde speer",
-   "aantal": 1
+   "aantal": 1,
+   "notitie": "Van doode jager in de grot van the giant boar"
   },
   {
    "id": "mvdo840i6zzwz",
@@ -82,5 +83,5 @@
    "up": true
   }
  ],
- "updated": 1792525809153
+ "updated": 1792526090943
 }
