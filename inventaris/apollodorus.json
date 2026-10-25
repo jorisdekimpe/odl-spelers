@@ -30,6 +30,13 @@
    "naam": "Madon-paddenstoelen",
    "aantal": 1,
    "notitie": "Van: Paddenstoelengrot, Mossy Temple"
+  },
+  {
+   "id": "mvo18vimbutvb",
+   "c": 1792945144462,
+   "t": 1792945144462,
+   "naam": "Magic Map (1d4 op initiatief  + kennis locatie party)",
+   "aantal": 1
   }
  ],
  "sheets": [
@@ -54,5 +61,5 @@
    "up": true
   }
  ],
- "updated": 1792944193313
+ "updated": 1792945144462
 }
