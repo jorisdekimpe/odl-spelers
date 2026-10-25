@@ -36,12 +36,14 @@
   {
    "id": "mvfdf7lfdn6hl",
    "c": 1792421399859,
-   "t": 1792421512355,
+   "t": 1792944190794,
    "name": "apollodorus lv2",
    "type": "pdf",
    "path": "sheets/apollodorus/mvfdf7lfdn6hl.pdf",
-   "up": true
+   "up": true,
+   "del": true,
+   "gone": true
   }
  ],
- "updated": 1792943436276
+ "updated": 1792944186516
 }
