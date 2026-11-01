@@ -70,6 +70,14 @@
    "naam": "Potion of Healing",
    "aantal": 1,
    "notitie": "Van: Vertrekken van Proteus"
+  },
+  {
+   "id": "mvtbsq8jgzshw",
+   "c": 1793265197779,
+   "t": 1793265197779,
+   "naam": "Studded leather armor",
+   "aantal": 1,
+   "notitie": "Van: Laten maken in Estoria"
   }
  ],
  "sheets": [
@@ -83,5 +91,5 @@
    "up": true
   }
  ],
- "updated": 1792988947461
+ "updated": 1793265197779
 }
