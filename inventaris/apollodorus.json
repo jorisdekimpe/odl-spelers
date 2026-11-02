@@ -38,6 +38,15 @@
    "t": 1792945144462,
    "naam": "Magic Map (1d4 op initiatief  + kennis locatie party)",
    "aantal": 1
+  },
+  {
+   "id": "mvzlvp1ruzup6",
+   "c": 1793644929423,
+   "t": 1793644929423,
+   "naam": "Darmen van de priester (voor luitsnaren)",
+   "aantal": 1,
+   "notitie": "Van: Temple of the Oracle",
+   "buit": "b:darmen-van-de-priester-voor-luitsnaren"
   }
  ],
  "sheets": [
@@ -62,5 +71,5 @@
    "up": true
   }
  ],
- "updated": 1793644872164
+ "updated": 1793644929423
 }
