@@ -56,6 +56,15 @@
    "aantal": 1,
    "notitie": "Van: Versi, the Oracle",
    "buit": "b:potion-of-healing~versi-the-oracle"
+  },
+  {
+   "id": "mvzlw2i5p3rpz",
+   "c": 1793644946861,
+   "t": 1793644946861,
+   "naam": "Demetria's ring",
+   "aantal": 1,
+   "notitie": "Van: Demetria",
+   "buit": "b:demetria-s-ring"
   }
  ],
  "sheets": [
@@ -80,5 +89,5 @@
    "up": true
   }
  ],
- "updated": 1793644932387
+ "updated": 1793644946861
 }
