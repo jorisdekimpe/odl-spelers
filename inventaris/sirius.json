@@ -42,9 +42,10 @@
   {
    "id": "mve6unfs974xi",
    "c": 1792349896744,
-   "t": 1792349896744,
+   "t": 1793646904795,
    "naam": "Wand of Conducting",
-   "aantal": 1
+   "aantal": 1,
+   "del": true
   },
   {
    "id": "mve849qsn0xej",
@@ -57,5 +58,5 @@
   }
  ],
  "sheets": [],
- "updated": 1793644482267
+ "updated": 1793646904795
 }
