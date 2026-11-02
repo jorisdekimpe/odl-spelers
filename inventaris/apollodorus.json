@@ -26,10 +26,11 @@
   {
    "id": "mvo089h08t11h",
    "c": 1792943436276,
-   "t": 1792943436276,
+   "t": 1793644872162,
    "naam": "Madon-paddenstoelen",
    "aantal": 1,
-   "notitie": "Van: Paddenstoelengrot, Mossy Temple"
+   "notitie": "Van: Paddenstoelengrot, Mossy Temple",
+   "buit": "b:madon-paddenstoelen"
   },
   {
    "id": "mvo18vimbutvb",
@@ -61,5 +62,5 @@
    "up": true
   }
  ],
- "updated": 1793644707152
+ "updated": 1793644872164
 }
