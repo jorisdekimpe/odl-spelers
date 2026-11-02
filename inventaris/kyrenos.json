@@ -32,6 +32,13 @@
    "t": 1792314540284,
    "naam": "Healing Potion",
    "aantal": 1
+  },
+  {
+   "id": "mvzm0fd8y07nm",
+   "c": 1793645150156,
+   "t": 1793645150156,
+   "naam": "Javlin lichting bold",
+   "aantal": 1
   }
  ],
  "sheets": [
@@ -45,5 +52,5 @@
    "up": true
   }
  ],
- "updated": 1792314540284
+ "updated": 1793645150156
 }
