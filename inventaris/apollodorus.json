@@ -42,11 +42,12 @@
   {
    "id": "mvzlvp1ruzup6",
    "c": 1793644929423,
-   "t": 1793644929423,
+   "t": 1793648912631,
    "naam": "Darmen van de priester (voor luitsnaren)",
    "aantal": 1,
    "notitie": "Van: Temple of the Oracle",
-   "buit": "b:darmen-van-de-priester-voor-luitsnaren"
+   "buit": "b:darmen-van-de-priester-voor-luitsnaren",
+   "del": true
   },
   {
    "id": "mvzlvrc335rk8",
@@ -89,5 +90,5 @@
    "up": true
   }
  ],
- "updated": 1793644946861
+ "updated": 1793648912631
 }
